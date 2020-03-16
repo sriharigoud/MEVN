@@ -14,8 +14,8 @@ npm install
 npm run dev
 
 ``` 
-You should have installed nodemon and ts-node globally
-.env file should be there with your config 
+You should have installed nodemon and ts-node globally 
+<br>.env file should be there with your config 
 
 ``` bash
 MONGO_USER=<your username>
@@ -47,4 +47,4 @@ npm run unit
 npm test
 ```
 You need to have .env file with NODE_ENV=Local
-You may need to have some packages to be installed globally ex: CLI, ts-node
+<br>You may need to have some packages to be installed globally ex: CLI, ts-node
